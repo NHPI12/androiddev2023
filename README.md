@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Tran Huy Nguyen
+* ID: BI12-327
 * Group ID: *Your Group ID here*
 
